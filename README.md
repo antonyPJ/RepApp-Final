@@ -16,7 +16,7 @@ Mural de Avisos: comunicados importantes fixos e organizados.
 
 ## 🎯 Objetivo
 
-Simplificar o dia a dia, reduzir conflitos e oferecer uma plataforma completa para organização, comunicação e convivência dentro das repúblicas.
+Facilitar a rotina das repúblicas universitárias ao oferecer uma plataforma única para finanças, tarefas e comunicação. O app busca reduzir conflitos, economizar tempo, melhorar a organização coletiva e tornar a convivência mais simples, prática e transparente para todos os moradores.
 
 
 ![Image](https://github.com/user-attachments/assets/14df4ac8-1fba-4cd0-a190-1a980bda64cf)
