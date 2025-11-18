@@ -4,6 +4,7 @@ import Login from "../pages/login";
 import Register from "../pages/register";
 import Access from "../pages/first access";
 import BottomRoutes from "./bottom.routes";
+import settings from "../pages/settings/settings";
 import { themas } from "../global/themes";
 
 const Stack = createStackNavigator();
@@ -23,6 +24,7 @@ export default function Routes() {
       <Stack.Screen name="Register" component={Register} />
       <Stack.Screen name="Access" component={Access} />
       <Stack.Screen name="MainTabs" component={BottomRoutes} />
+      <Stack.Screen name="Settings" component={settings} />
     </Stack.Navigator>
   );
 }
