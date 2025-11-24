@@ -104,7 +104,7 @@ export default function Login() {
         </View>
       </View>
 
-      <TouchableOpacity onPress={() => navigation.navigate("Register")}>
+      <TouchableOpacity onPress={() => navigation.navigate("RegisterUser")}>
         <Text style={style.signUpText}>
           Não tem conta? <Text style={style.signUpLink}>Cadastre-se</Text>
         </Text>

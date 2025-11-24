@@ -84,6 +84,7 @@ export const style = StyleSheet.create({
 
   footerText: {
     marginTop: 22,
+    marginBottom: 30,
     fontSize: 15,
     color: "#555",
   },
